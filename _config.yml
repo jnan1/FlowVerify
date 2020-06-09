@@ -3,3 +3,5 @@ theme: jekyll-theme-minimal
 title: Combining Deep Learning and Verification for Precise Object Instance Detection
 
 show_downloads: false
+
+logo: overview.png
