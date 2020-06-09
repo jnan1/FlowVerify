@@ -6,8 +6,8 @@ Deep learning based object detectors often report false positives with very high
 
 ### Paper
 
-Combining Deep Learning and Verification for Precise Object Instance Detection
-Conference on Robot Learning (CoRL 2019)
+[Combining Deep Learning and Verification for Precise Object Instance Detection](https://arxiv.org/abs/1912.12270)
+
 
 ### Video
 [![](https://img.youtube.com/vi/QaCuEv_7lfs/0.jpg)](https://www.youtube.com/watch?time_continue=12696&v=QaCuEv_7lfs)
