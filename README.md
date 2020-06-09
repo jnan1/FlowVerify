@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Abstract
 
-You can use the [editor on GitHub](https://github.com/jnan1/FlowVerify/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Deep learning based object detectors often report false positives with very high confidence. Although they optimize generic detection performance, such as mean average precision (mAP), they are not designed for robustness or verifiability. We argue that, if a high confidence detection is made by a robot perception system, we would want high certainty that the object has indeed been detected. We present a detection system that can verify, with high precision, whether each detection of a machine-learning based object detector is correct or not. We present a set of verification checks based on a novel approach of using dense pixel correspondences between known images of objects and a scene, to verify whether the detections made in the scene are correct. We motivate this by developing a theoretical framework which proves that under certain assumptions, our proposed method will reject any false positives. We show that these tests can improve the overall accuracy of a base detector and that accepted examples are highly likely to be correct. This allows the detector to operate in a high precision regime, and can thus be used for robotic perception systems as a reliable instance detection method. Code is available at [Link](https://github.com/siddancha/FlowVerify).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Paper
 
-### Markdown
+Combining Deep Learning and Verification for Precise Object Instance Detection
+Conference on Robot Learning (CoRL 2019)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jnan1/FlowVerify/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Video
+[![](http://img.youtube.com/vi/QaCuEv_7lfs/0.jpg)](http://www.youtube.com/watch?v=QaCuEv_7lfs "")
