@@ -1,11 +1,5 @@
 theme: jekyll-theme-minimal
 
-# Header 1
-## Header 2
-### Header 3
+title: Combining Deep Learning and Verification for Precise Object Instance Detection
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+show_downloads: false
