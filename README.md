@@ -11,3 +11,8 @@ Deep learning based object detectors often report false positives with very high
 
 ### Video
 [![](https://img.youtube.com/vi/QaCuEv_7lfs/0.jpg)](https://www.youtube.com/watch?time_continue=12696&v=QaCuEv_7lfs)
+
+### Acknowledgments
+
+This material is based upon work supported by the United States Air Force and DARPA under
+Contract No. FA8750-18-C-0092 as well as by the NSF under Grant No. IIS-1849154.
