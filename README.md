@@ -14,5 +14,4 @@ Conference on Robot Learning (CoRL 2019)
 
 ### Acknowledgments
 
-This material is based upon work supported by the United States Air Force and DARPA under
-Contract No. FA8750-18-C-0092 as well as by the NSF under Grant No. IIS-1849154.
+This material is based upon work supported by the United States Air Force and DARPA under Contract No. FA8750-18-C-0092, the NSF under Grant No. IIS-1849154, as well as a Google Faculty Research Award.
